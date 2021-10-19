@@ -1,0 +1,2 @@
+# nextjs-learn
+Nextjs öğrenmece
