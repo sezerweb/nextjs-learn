@@ -1,0 +1,113 @@
+[
+  {
+    "name": "TEMEL BİLGİLER",
+	"id":1,
+    "subCategory": [
+      {
+        "name": "Next.js Uygulaması Oluşturun",
+        "url": "/basics/create-nextjs-app",
+		"id":2,
+        "list": [
+          {
+            "name": "Kurmak",
+            "url": "/basics/create-nextjs-app/setup",
+			"id":3
+          },
+          {
+            "name": "Next.jsye hoş geldiniz",
+            "url": "/basics/create-nextjs-app/welcome-to-nextjs",
+			"id":4
+          },
+          {
+            "name": "Sayfayı Düzenleme",
+            "url": "/basics/create-nextjs-app/editing-the-page",
+			"id":5
+          }
+        ]
+      },
+      {
+        "name": "Sayfalar Arasında Gezin",
+        "url": "/basics/navigate-between-pages",
+		"id":6,
+        "list": [
+          {
+            "name": "Kurmak",
+            "url": "/basics/navigate-between-pages/setup",
+			"id":7
+          },
+          {
+            "name": "Next.js'deki sayfalar",
+            "url": "/basics/navigate-between-pages/pages-in-nextjs",
+			"id":8
+          },
+          {
+            "name": "Bağlantı Bileşeni",
+            "url": "/basics/navigate-between-pages/link-component",
+			"id":9
+          },
+          {
+            "name": "İstemci Tarafı Gezinme",
+            "url": "/basics/navigate-between-pages/client-side",
+			"id":10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ARAMA MOTORU OPTİMİZASYONU",
+	"id":11,
+    "subCategory": [
+      {
+        "name": "SEO nedir?",
+        "url": "/seo/introduction-to-seo",
+		"id":12,
+        "list": [
+          {
+            "name": "SEO'nun önemi",
+            "url": "/seo/introduction-to-seo/importance-of-seo",
+			"id":13
+          },
+          {
+            "name": "Arama Sistemleri",
+            "url": "/seo/introduction-to-seo/search-systems",
+			"id":14
+          },
+          {
+            "name": "Web Tarayıcıları nedir?",
+            "url": "/seo/introduction-to-seo/webcrawlers",
+			"id":15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EXCEL",
+	"id":165,
+    "subCategory": [
+      {
+        "name": "TypeScript",
+        "url": "/excel/typescript",
+		"id":17,
+        "list": [
+          {
+            "name": "Kurmak",
+            "url": "/excel/typescript/setup",
+			"id":18
+          },
+          {
+            "name": "tsconfig.json oluşturun",
+            "url": "/excel/typescript/create-tsconfig",
+			"id":19
+          },
+          {
+            "name": "Next.js Belirli Türler",
+            "url": "/excel/typescript/nextjs-types",
+			"id":20
+          }
+        ]
+      }
+    ]
+  }
+]
